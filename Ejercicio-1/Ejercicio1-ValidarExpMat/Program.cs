@@ -1,5 +1,4 @@
-﻿
-Pila<char> pila;
+﻿Pila<char> pila;
 bool correcta = true;
 string cadena = "";
 Console.WriteLine("Ingrese una expresion matematica:");
