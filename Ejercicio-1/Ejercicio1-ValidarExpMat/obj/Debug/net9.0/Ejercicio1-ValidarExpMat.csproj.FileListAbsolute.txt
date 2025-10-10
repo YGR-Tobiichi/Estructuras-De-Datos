@@ -1,0 +1,14 @@
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\bin\Debug\net9.0\Ejercicio1-ValidarExpMat.exe
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\bin\Debug\net9.0\Ejercicio1-ValidarExpMat.deps.json
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\bin\Debug\net9.0\Ejercicio1-ValidarExpMat.runtimeconfig.json
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\bin\Debug\net9.0\Ejercicio1-ValidarExpMat.dll
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\bin\Debug\net9.0\Ejercicio1-ValidarExpMat.pdb
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.AssemblyInfoInputs.cache
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.AssemblyInfo.cs
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.csproj.CoreCompileInputs.cache
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.dll
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\refint\Ejercicio1-ValidarExpMat.dll
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.pdb
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\Ejercicio1-ValidarExpMat.genruntimeconfig.cache
+C:\Users\Tobiichi\VSCode\ED\Ejercicio 1\Ejercicio1-ValidarExpMat\obj\Debug\net9.0\ref\Ejercicio1-ValidarExpMat.dll
