@@ -22,7 +22,7 @@ public class ColaEstaticaNodo<Tipo>
         }
         private bool DetectarColaVacia()
         {
-            if (Frente == Final)
+            if (Final == Frente)
                 return true;
             else
                 return false;
@@ -52,15 +52,15 @@ public class ColaEstaticaNodo<Tipo>
             else
                 return default;
         }
-        public string DesencolarTodo()
+    public string DesencolarTodo()
+    {
+        string strResultado = "\n";
+        while (!DetectarColaVacia())
         {
-            string strResultado = "\n";
-            while (!DetectarColaVacia())
-            {
-                Nodo<Tipo> nodoDesencolado = new Nodo<Tipo>();
-                nodoDesencolado.Dato = this.Desencolar();
-                strResultado += "Sale " + (Frente+1) + " " + nodoDesencolado.Dato + "\n";
-            }
+            Nodo<Tipo> nodoDesencolado = new Nodo<Tipo>();
+            nodoDesencolado.Dato = this.Desencolar();
+            strResultado += "Sale " + (Frente + 1) + " " + nodoDesencolado.Dato + "\n";
+        }
             return strResultado;
         }
 }

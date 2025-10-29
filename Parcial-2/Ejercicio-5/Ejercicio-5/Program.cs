@@ -16,6 +16,12 @@
                 cola.Encolar(strValor);
             }
             Console.WriteLine(cola.DesencolarTodo());
+            cola.Encolar("cola");
+            cola.Encolar("pila");
+            cola.Encolar("fila");
+            Console.WriteLine(cola.Desencolar());
+            cola.Encolar("Grafo");
+            Console.WriteLine(cola.Desencolar());
             Console.ReadKey();
         }
     }
