@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio1-ValidarExpMat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d008ca639226ad29b3edf2a0f05d61d9b0811152")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1288aac501eb19b1a3f90238cdb8a75bbdf95d1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio1-ValidarExpMat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio1-ValidarExpMat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

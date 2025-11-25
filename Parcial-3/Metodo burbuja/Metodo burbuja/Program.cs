@@ -25,7 +25,7 @@ for (int i = 0; i < arreglo.Length - 1; i++)
         }
     }
 }
-Console.WriteLine("Arreglo ordenado:");
+Console.WriteLine("Arreglo ordenado: ");
 for (int i = 0; i < arreglo.Length; i++)
 {
     Console.WriteLine(arreglo[i]);

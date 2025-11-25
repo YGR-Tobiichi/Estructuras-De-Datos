@@ -59,4 +59,5 @@ if (correcta)
 {
     Console.WriteLine("La expresión está bien escrita");
 }
+Console.WriteLine(3 / 2);
 Console.ReadKey();

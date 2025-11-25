@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Tobiichi\\VSCode\\ED\\Parcial-2\\Ejercicio-1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B536FC02-2DBE-41C3-8F8B-EF36FB5D9088}|Ejercicio1-ValidarExpMat\\Ejercicio1-ValidarExpMat.csproj|c:\\users\\tobiichi\\vscode\\ed\\parcial-2\\ejercicio-1\\ejercicio1-validarexpmat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B536FC02-2DBE-41C3-8F8B-EF36FB5D9088}|Ejercicio1-ValidarExpMat\\Ejercicio1-ValidarExpMat.csproj|solutionrelative:ejercicio1-validarexpmat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tobiichi\\VSCode\\ED\\Parcial-2\\Ejercicio-1\\Ejercicio1-ValidarExpMat\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1-ValidarExpMat\\Program.cs",
+              "ToolTip": "C:\\Users\\Tobiichi\\VSCode\\ED\\Parcial-2\\Ejercicio-1\\Ejercicio1-ValidarExpMat\\Program.cs*",
+              "RelativeToolTip": "Ejercicio1-ValidarExpMat\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:35:20.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
