@@ -1,0 +1,15 @@
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\bin\Debug\net9.0\Busqueda-Binaria.exe
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\bin\Debug\net9.0\Busqueda-Binaria.deps.json
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\bin\Debug\net9.0\Busqueda-Binaria.runtimeconfig.json
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\bin\Debug\net9.0\Busqueda-Binaria.dll
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\bin\Debug\net9.0\Busqueda-Binaria.pdb
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.AssemblyInfoInputs.cache
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.AssemblyInfo.cs
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.csproj.CoreCompileInputs.cache
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.sourcelink.json
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.dll
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\refint\Busqueda-Binaria.dll
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.pdb
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\Busqueda-Binaria.genruntimeconfig.cache
+C:\Users\Tobiichi\VSCode\ED\Parcial-3\Busqueda-Binaria\Busqueda-Binaria\obj\Debug\net9.0\ref\Busqueda-Binaria.dll
